@@ -1,7 +1,7 @@
 {
   "rootTopicKey": "d601cd2b-924f-4d6e-ae35-e0faf8361a21",
   "editorRootTopicKey": "d601cd2b-924f-4d6e-ae35-e0faf8361a21",
-  "focusKey": "78a6697f-123d-4eae-822f-d8581c30d1d8",
+  "focusKey": "f422f1be-b4b1-454f-a4e6-d707531752f2",
   "extData": {
     "TOPIC_REFERENCE": {
       "reference": {}
@@ -76,6 +76,21 @@
         {
           "type": "CONTENT",
           "data": "原理"
+        }
+      ]
+    },
+    {
+      "key": "5adccf08-9a51-4c70-b903-10d287a14e2e",
+      "parentKey": "92142bd9-dd77-4ccd-b5a2-f4ce898402d1",
+      "subKeys": [
+        "331e179d-7052-47f0-91d8-d6326300aede"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "CLS(Cumulative Layout Shift  累积布局偏移) "
         }
       ]
     },
@@ -160,6 +175,19 @@
         {
           "type": "DESC",
           "data": "防止包被意外发到npm上"
+        }
+      ]
+    },
+    {
+      "key": "4aa85e72-c03c-4543-85b1-c9b073f91658",
+      "parentKey": "e83fb161-9bc7-4007-b6ae-5a3c7b2e5ea8",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "2、 vue Vue.config.errorHandler "
         }
       ]
     },
@@ -301,6 +329,19 @@
       ]
     },
     {
+      "key": "fed0b590-3031-4ea4-93ea-4f422cec9c2d",
+      "parentKey": "fdf0a6de-f306-4eb7-a304-81703aa636d5",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "axios可用拦截器、fetch 可用catch"
+        }
+      ]
+    },
+    {
       "key": "971d1b12-3f69-448a-9755-ecf04c1e3102",
       "parentKey": "1b5d6e48-07a5-450d-8f75-61880764dcfa",
       "subKeys": [
@@ -315,6 +356,19 @@
         {
           "type": "CONTENT",
           "data": "1、执行patchVnode"
+        }
+      ]
+    },
+    {
+      "key": "331e179d-7052-47f0-91d8-d6326300aede",
+      "parentKey": "5adccf08-9a51-4c70-b903-10d287a14e2e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "0.1内"
         }
       ]
     },
@@ -373,6 +427,21 @@
         {
           "type": "CONTENT",
           "data": "state"
+        }
+      ]
+    },
+    {
+      "key": "ddaca2a4-45eb-4825-bf15-ee3352f8c2ec",
+      "parentKey": "92142bd9-dd77-4ccd-b5a2-f4ce898402d1",
+      "subKeys": [
+        "a05e253b-417c-4055-b65b-bd74d9df8110"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "LCP(largest contentful paint 最大内容绘制)"
         }
       ]
     },
@@ -603,6 +672,21 @@
       ]
     },
     {
+      "key": "fdf0a6de-f306-4eb7-a304-81703aa636d5",
+      "parentKey": "10c63099-19a7-472e-898c-be750d75eade",
+      "subKeys": [
+        "fed0b590-3031-4ea4-93ea-4f422cec9c2d"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "3、http请求错误"
+        }
+      ]
+    },
+    {
       "key": "a0b76208-cfde-44e5-8910-4dcaaef5b167",
       "parentKey": "ca56f760-addb-40d5-9076-0eb7b19ceeef",
       "subKeys": [
@@ -665,6 +749,21 @@
         {
           "type": "CONTENT",
           "data": "模板解析"
+        }
+      ]
+    },
+    {
+      "key": "b0f8ee08-f609-4c86-ba41-21302b6d5d30",
+      "parentKey": "10c63099-19a7-472e-898c-be750d75eade",
+      "subKeys": [
+        "c243deb0-a5c1-449a-83ab-8e04deb0d510"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "1、运行时错误"
         }
       ]
     },
@@ -768,6 +867,19 @@
         {
           "type": "CONTENT",
           "data": "编译执行"
+        }
+      ]
+    },
+    {
+      "key": "cacba671-f8af-47d8-ae21-7c69d7202b8f",
+      "parentKey": "1c604add-1b9f-4d3d-bbe7-ac91c30e225c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "unhandledrejection"
         }
       ]
     },
@@ -947,6 +1059,21 @@
       ]
     },
     {
+      "key": "8b829e38-6d26-483a-bb13-26c25df6efcf",
+      "parentKey": "92142bd9-dd77-4ccd-b5a2-f4ce898402d1",
+      "subKeys": [
+        "f422f1be-b4b1-454f-a4e6-d707531752f2"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "TTFB（Time to First Byte）"
+        }
+      ]
+    },
+    {
       "key": "da066520-9eb5-45cc-8581-4786b843b73e",
       "parentKey": "c74e17e5-8d5e-44f8-8e6a-6f0b2d792166",
       "subKeys": [],
@@ -973,6 +1100,27 @@
         {
           "type": "DESC",
           "data": "fallback 属性接受任何在组件加载过程中你想展示的 React 元素"
+        }
+      ]
+    },
+    {
+      "key": "92142bd9-dd77-4ccd-b5a2-f4ce898402d1",
+      "parentKey": "0708093a-0e98-44fa-85da-41316b5a9af6",
+      "subKeys": [
+        "2bba4b9a-56b2-4c54-85ce-233fb785adf4",
+        "ddaca2a4-45eb-4825-bf15-ee3352f8c2ec",
+        "412f2a19-63ae-4ce3-9c4a-b13f6efb35b5",
+        "5adccf08-9a51-4c70-b903-10d287a14e2e",
+        "720a8456-57f4-4150-a3f3-b5f6830a2fbe",
+        "4f0a9c74-7c6c-4668-87cc-0bcfef093b61",
+        "8b829e38-6d26-483a-bb13-26c25df6efcf"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "性能指标"
         }
       ]
     },
@@ -1004,6 +1152,19 @@
         {
           "type": "CONTENT",
           "data": "http1.1出现"
+        }
+      ]
+    },
+    {
+      "key": "fc319b25-cc5c-4024-8f14-7f904ce2a0e8",
+      "parentKey": "720a8456-57f4-4150-a3f3-b5f6830a2fbe",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "html完全解析， 但不包括 样式表 图片 等资源加载完成"
         }
       ]
     },
@@ -1047,6 +1208,25 @@
         {
           "type": "CONTENT",
           "data": "开始编译"
+        }
+      ]
+    },
+    {
+      "key": "10c63099-19a7-472e-898c-be750d75eade",
+      "parentKey": "c0ee85e8-0006-451b-ba49-472b0a7b69ca",
+      "subKeys": [
+        "b0f8ee08-f609-4c86-ba41-21302b6d5d30",
+        "26a8448e-fda7-4813-9764-9bb4f395e8cd",
+        "fdf0a6de-f306-4eb7-a304-81703aa636d5",
+        "c71e3f80-f3a1-44a2-804a-ef19f7d55c10",
+        "e83fb161-9bc7-4007-b6ae-5a3c7b2e5ea8"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "1、错误分类"
         }
       ]
     },
@@ -1532,6 +1712,21 @@
       ]
     },
     {
+      "key": "412f2a19-63ae-4ce3-9c4a-b13f6efb35b5",
+      "parentKey": "92142bd9-dd77-4ccd-b5a2-f4ce898402d1",
+      "subKeys": [
+        "6e8278b4-4756-4e2c-8e2f-551858c03d81"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "FID（first input delay首次输入延迟）"
+        }
+      ]
+    },
+    {
       "key": "be0ae856-967b-4904-9fce-6959a4d9e182",
       "parentKey": "9affa3d3-346d-43a1-b63a-52f49763a1fb",
       "subKeys": [
@@ -1642,6 +1837,22 @@
       ]
     },
     {
+      "key": "3c0476cf-9b19-4388-b066-6e114e7279da",
+      "parentKey": "d601cd2b-924f-4d6e-ae35-e0faf8361a21",
+      "subKeys": [
+        "c0ee85e8-0006-451b-ba49-472b0a7b69ca",
+        "0708093a-0e98-44fa-85da-41316b5a9af6"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "性能优化与错误上报"
+        }
+      ]
+    },
+    {
       "key": "43254c46-0fc1-4401-aa05-643f2c95af79",
       "parentKey": "cc014605-3ebe-4106-97b3-69dcca953c17",
       "subKeys": [],
@@ -1729,6 +1940,19 @@
       ]
     },
     {
+      "key": "a05e253b-417c-4055-b65b-bd74d9df8110",
+      "parentKey": "ddaca2a4-45eb-4825-bf15-ee3352f8c2ec",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "最好2.5s内"
+        }
+      ]
+    },
+    {
       "key": "667f11d1-48ea-453b-a3e7-8c08270dce83",
       "parentKey": "26f535d1-6510-4d75-8e36-8ad9bd0ae5c6",
       "subKeys": [
@@ -1789,6 +2013,19 @@
         {
           "type": "DESC",
           "data": "define\\(function\\(require, exports, module\\) \\{  \n  var math = require\\('./math'\\);  \n  math\\.print\\(\\)  \n\\}\\)  "
+        }
+      ]
+    },
+    {
+      "key": "f422f1be-b4b1-454f-a4e6-d707531752f2",
+      "parentKey": "8b829e38-6d26-483a-bb13-26c25df6efcf",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "从请求开始到接收到响应的第一个字节"
         }
       ]
     },
@@ -2234,6 +2471,19 @@
       ]
     },
     {
+      "key": "bca12bb2-29c5-4b7f-a2ff-143dbb51dbcf",
+      "parentKey": "e83fb161-9bc7-4007-b6ae-5a3c7b2e5ea8",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "1、react   ErrorBoundary"
+        }
+      ]
+    },
+    {
       "key": "f3bece18-efc3-4d22-af84-ebb963666c11",
       "parentKey": "18d5a0b6-35f4-4eae-a11c-474d3fd251bf",
       "subKeys": [],
@@ -2243,6 +2493,21 @@
         {
           "type": "CONTENT",
           "data": "直接替换改节点"
+        }
+      ]
+    },
+    {
+      "key": "c0ee85e8-0006-451b-ba49-472b0a7b69ca",
+      "parentKey": "3c0476cf-9b19-4388-b066-6e114e7279da",
+      "subKeys": [
+        "10c63099-19a7-472e-898c-be750d75eade"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "错误上报"
         }
       ]
     },
@@ -2277,6 +2542,34 @@
       ]
     },
     {
+      "key": "6880eea2-d953-4c83-8bd3-827a0bbafc82",
+      "parentKey": "c71e3f80-f3a1-44a2-804a-ef19f7d55c10",
+      "subKeys": [
+        "ee769240-9edc-41b5-8652-0611b8110e8a"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "1、setTimeout、setInterval"
+        }
+      ]
+    },
+    {
+      "key": "9e4a2220-2629-4ad0-a997-c2a875284573",
+      "parentKey": "8de562ad-faf3-44b2-9b98-784a9a332c94",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "可用addEventListener('error', fn, true)但必须要在捕获阶段，link等发生的错误，不会发生冒泡事件。也可添加onerror属性，但代码侵入性太强"
+        }
+      ]
+    },
+    {
       "key": "25515e06-b29b-469e-9abe-b2033ae28dfc",
       "parentKey": "b7fbd66c-d2e2-4f7f-930a-8d81fcd839bf",
       "subKeys": [
@@ -2293,6 +2586,21 @@
         {
           "type": "DESC",
           "data": "正是由于这些缺点导致了npm3 及 yarn 的出现: 将依赖扁平化\nnpm3,以前的依赖采用的深层嵌套"
+        }
+      ]
+    },
+    {
+      "key": "26a8448e-fda7-4813-9764-9bb4f395e8cd",
+      "parentKey": "10c63099-19a7-472e-898c-be750d75eade",
+      "subKeys": [
+        "8de562ad-faf3-44b2-9b98-784a9a332c94"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "2、网络错误"
         }
       ]
     },
@@ -2387,6 +2695,21 @@
       ]
     },
     {
+      "key": "1c604add-1b9f-4d3d-bbe7-ac91c30e225c",
+      "parentKey": "c71e3f80-f3a1-44a2-804a-ef19f7d55c10",
+      "subKeys": [
+        "cacba671-f8af-47d8-ae21-7c69d7202b8f"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "2、promise"
+        }
+      ]
+    },
+    {
       "key": "f03e4c67-2b41-47fd-97de-4070d5ebb742",
       "parentKey": "0512c8ba-27d7-4f08-b5c0-506d0914b474",
       "subKeys": [],
@@ -2396,6 +2719,21 @@
         {
           "type": "CONTENT",
           "data": "启动一个资源服务"
+        }
+      ]
+    },
+    {
+      "key": "c243deb0-a5c1-449a-83ab-8e04deb0d510",
+      "parentKey": "b0f8ee08-f609-4c86-ba41-21302b6d5d30",
+      "subKeys": [
+        "0a4cb1dc-5c8c-43c2-bc6c-a826d8aa69b4"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "EvalError、RangeError、ReferenceError、SyntaxError、TypeError、URIError"
         }
       ]
     },
@@ -2445,6 +2783,21 @@
         {
           "type": "CONTENT",
           "data": "优点"
+        }
+      ]
+    },
+    {
+      "key": "720a8456-57f4-4150-a3f3-b5f6830a2fbe",
+      "parentKey": "92142bd9-dd77-4ccd-b5a2-f4ce898402d1",
+      "subKeys": [
+        "fc319b25-cc5c-4024-8f14-7f904ce2a0e8"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "DOMContentLoad"
         }
       ]
     },
@@ -2557,6 +2910,19 @@
       ]
     },
     {
+      "key": "ee769240-9edc-41b5-8652-0611b8110e8a",
+      "parentKey": "6880eea2-d953-4c83-8bd3-827a0bbafc82",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "可用try catch, window.onerror、addEventListener('error', fn, true"
+        }
+      ]
+    },
+    {
       "key": "051c762f-afa9-4ed9-844e-98983b98a9b1",
       "parentKey": "14c25d3a-3160-4121-b4f0-98f1ce2617b8",
       "subKeys": [
@@ -2588,6 +2954,19 @@
         {
           "type": "CONTENT",
           "data": "commonJS一个文件就是一个模块（主要用于服务端）"
+        }
+      ]
+    },
+    {
+      "key": "0a4cb1dc-5c8c-43c2-bc6c-a826d8aa69b4",
+      "parentKey": "c243deb0-a5c1-449a-83ab-8e04deb0d510",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "可用onerror(可以阻止事件冒泡)、try catch"
         }
       ]
     },
@@ -2667,6 +3046,19 @@
       ]
     },
     {
+      "key": "2bba4b9a-56b2-4c54-85ce-233fb785adf4",
+      "parentKey": "92142bd9-dd77-4ccd-b5a2-f4ce898402d1",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "FCP（first contentful paint首次内容绘制）"
+        }
+      ]
+    },
+    {
       "key": "6a216b69-d4b6-4b2d-b34e-3e4d03b932f2",
       "parentKey": "89ca6c20-3495-4b16-9461-03ff535fe768",
       "subKeys": [],
@@ -2712,6 +3104,48 @@
         {
           "type": "CONTENT",
           "data": "vue3"
+        }
+      ]
+    },
+    {
+      "key": "c71e3f80-f3a1-44a2-804a-ef19f7d55c10",
+      "parentKey": "10c63099-19a7-472e-898c-be750d75eade",
+      "subKeys": [
+        "6880eea2-d953-4c83-8bd3-827a0bbafc82",
+        "1c604add-1b9f-4d3d-bbe7-ac91c30e225c"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "4、异步任务发生的错误"
+        }
+      ]
+    },
+    {
+      "key": "6fd82920-018c-40f3-8b7c-349ba10069d1",
+      "parentKey": "4f0a9c74-7c6c-4668-87cc-0bcfef093b61",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "页面和资源都 下载完成"
+        }
+      ]
+    },
+    {
+      "key": "6e8278b4-4756-4e2c-8e2f-551858c03d81",
+      "parentKey": "412f2a19-63ae-4ce3-9c4a-b13f6efb35b5",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "100ms内"
         }
       ]
     },
@@ -2947,7 +3381,8 @@
         "c74e17e5-8d5e-44f8-8e6a-6f0b2d792166",
         "b8a88a7f-8b7d-49fb-afeb-51ae5dfda083",
         "a1809a20-7c44-41d2-964e-4fcbef4ca7c0",
-        "87d4a080-910c-4b5b-9c8e-46bd8bb39c03"
+        "87d4a080-910c-4b5b-9c8e-46bd8bb39c03",
+        "3c0476cf-9b19-4388-b066-6e114e7279da"
       ],
       "collapse": false,
       "style": null,
@@ -3015,6 +3450,21 @@
         {
           "type": "CONTENT",
           "data": "2、到 registry上找到符合版本规则的压缩包，下载（并行下载）到本地缓存。一般在.npm目录下，windows在npm-cache"
+        }
+      ]
+    },
+    {
+      "key": "8de562ad-faf3-44b2-9b98-784a9a332c94",
+      "parentKey": "26a8448e-fda7-4813-9764-9bb4f395e8cd",
+      "subKeys": [
+        "9e4a2220-2629-4ad0-a997-c2a875284573"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "link加载、img加载、script等"
         }
       ]
     },
@@ -3135,6 +3585,21 @@
       ]
     },
     {
+      "key": "0708093a-0e98-44fa-85da-41316b5a9af6",
+      "parentKey": "3c0476cf-9b19-4388-b066-6e114e7279da",
+      "subKeys": [
+        "92142bd9-dd77-4ccd-b5a2-f4ce898402d1"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "性能"
+        }
+      ]
+    },
+    {
       "key": "5d63f988-8540-48f6-9f98-cdf0b18aa196",
       "parentKey": "6af4fda7-7638-4498-a40f-7ec263c9a04a",
       "subKeys": [
@@ -3223,6 +3688,22 @@
       ]
     },
     {
+      "key": "e83fb161-9bc7-4007-b6ae-5a3c7b2e5ea8",
+      "parentKey": "10c63099-19a7-472e-898c-be750d75eade",
+      "subKeys": [
+        "bca12bb2-29c5-4b7f-a2ff-143dbb51dbcf",
+        "4aa85e72-c03c-4543-85b1-c9b073f91658"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "5、框架错误"
+        }
+      ]
+    },
+    {
       "key": "19c7189a-755e-43ea-a686-cfd99b735783",
       "parentKey": "c74e17e5-8d5e-44f8-8e6a-6f0b2d792166",
       "subKeys": [
@@ -3277,6 +3758,21 @@
         {
           "type": "CONTENT",
           "data": "createCompiler"
+        }
+      ]
+    },
+    {
+      "key": "4f0a9c74-7c6c-4668-87cc-0bcfef093b61",
+      "parentKey": "92142bd9-dd77-4ccd-b5a2-f4ce898402d1",
+      "subKeys": [
+        "6fd82920-018c-40f3-8b7c-349ba10069d1"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "onload"
         }
       ]
     },
